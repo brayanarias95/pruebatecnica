@@ -1,0 +1,22 @@
+{
+    "personas": [
+        {
+            "nombre": "Sigrid",
+            "apellido": "Mannock",
+            "edad": 27,
+            "correo": "sigrid@hotmail.com"
+        },
+        {
+            "nombre": "Joe",
+            "apellido": "Hinners",
+            "edad": 31,
+            "correo": "joe@hotmail.com"
+        },
+        {
+            "nombre": "Theodoric",
+            "apellido": "Rivers",
+            "edad": 36,
+            "correo": "theodo@hotmail.com"
+        }
+    ]
+}
