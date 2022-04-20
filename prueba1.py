@@ -57,7 +57,7 @@ async def listen():
         print(resultados)
         
 # inicio la conexion
-for bloques in range(5):
+for bloques in range(6):
     print('bloque numero: ',bloques+1)
     asyncio.get_event_loop().run_until_complete(listen())
 
